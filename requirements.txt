@@ -1,0 +1,10 @@
+pandas
+numpy
+spacy
+nltk
+vaderSentiment
+bertopic
+transformers
+streamlit
+pyngrok
+plotly
