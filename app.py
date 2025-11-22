@@ -3,10 +3,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# --- Config ---
+#Config 
 st.set_page_config(layout="wide", page_title="MarketGap Miner")
 
-# --- File Paths (adjust to your Drive folder) ---
+#File Paths (adjust to your Drive folder) 
 PROJECT_PATH = '/content/drive/MyDrive/MarketGapMiner'
 SCORES_FILE = f'{PROJECT_PATH}/gap_scores.csv'
 REVIEWS_FILE = f'{PROJECT_PATH}/pain_reviews.csv'
