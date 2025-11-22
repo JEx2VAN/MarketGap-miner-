@@ -23,7 +23,8 @@ Entrepreneurs and Product Managers often rely on gut instinct or manual intervie
 
 The final product is an interactive **Streamlit Dashboard** that allows stakeholders to drill down into specific market gaps.
 
-*(Place a screenshot of your dashboard here. You can drag and drop an image into the GitHub editor)*
+*<img width="1787" height="520" alt="image" src="https://github.com/user-attachments/assets/380ad99a-5656-4b85-bdac-15c19b3ebb83" />
+*
 > ****
 
 ### Key Findings (Proof of Concept)
