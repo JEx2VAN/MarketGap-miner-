@@ -47,7 +47,7 @@ This project utilizes a 3-stage NLP pipeline to transform unstructured text into
 * **Pain Filtering (Sentiment Analysis):** utilized **VADER** to score every review. A filter (`compound_score < -0.1`) isolates *only* negative feedback to focus on pain points.
 * **Topic Modeling (BERTopic):** Implemented **BERTopic** (utilizing Transformers) to automatically cluster thousands of disconnected complaints into coherent themes (e.g., "UI Clutter," "Login Issues").
 
-### 3. The "Gap Score" Algorithm (MBA Logic)
+### 3. The "Gap Score" Algorithm 
 To quantify the value of an opportunity, I developed a custom scoring formula:
 
 $$Gap Score = Frequency \times |Avg. Sentiment| \times Competitor Spread$$
